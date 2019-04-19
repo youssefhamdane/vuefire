@@ -2,6 +2,8 @@
 
 > Synchronize your data and Firebase Cloud Store database in real-time
 
+[**Documentation**](https://vuefire.vuejs.org)
+
 ## Introduction
 
 Firebase provides two solutions to handle real-time databases: Realtime Database and Cloud Store (which is also a realtime database).
@@ -11,8 +13,6 @@ The goal of vuefire and vuexfire is to make this as simple as a function call th
 <!-- TODO compare code samples -->
 
 Note: _This repository contains the code for `vuefire` and `vuexfire` packages:_
-
-_Current version only supports Cloud Store. Support for both Realtime Database and Cloud Store will be added in the future. If you need to use Realtime Database, use [v1.x.x of vuefire](https://github.com/vuejs/vuefire/tree/v1) or [v2.x.x of vuexfire](https://github.com/posva/vuexfire)_
 
 ## Packages
 
