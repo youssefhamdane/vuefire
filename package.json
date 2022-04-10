@@ -27,7 +27,7 @@
     "test": "yarn run test:types && yarn run test:unit && yarn run build && yarn run build:dts"
   },
   "files": [
-    "dist/*.js",
+    "src/*.js",
     "dist/vuefire.d.ts",
     "LICENSE",
     "README.md"
